@@ -99,20 +99,6 @@
       }
     },
     {
-      "id": "833a",
-      "title": "João Souza Silva",
-      "type": "Full-Time",
-      "description": "yea",
-      "location": "Middletown, NJ, USA",
-      "salary": "$60K - $70K",
-      "company": {
-        "name": "Google",
-        "description": "y",
-        "contactEmail": "teste@exemplo.us",
-        "contactPhone": "3121286800"
-      }
-    },
-    {
       "id": "3811",
       "title": "Jon Stewart Doe",
       "type": "Full-Time",
